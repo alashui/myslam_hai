@@ -1,0 +1,2 @@
+/home/robot/a_myfile/slam_v01/build/src/CMakeFiles/myslam.dir
+/home/robot/a_myfile/slam_v01/build/test/CMakeFiles/run_vo.dir
